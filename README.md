@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Merlyn</h1>
-<h3 align="center">A passionate full stack developer with additional data analytics skills from India</h3>
+<h3 align="center">A passionate DATA ANALYTS with additional data analytics skills from India</h3>
 
-- 🔭 I’m currently working on **e-commerce**
+- 🔭 I’m currently working on **DATA VISULAIZATION **
 
-- 🌱 I’m currently learning **react js,tailwind**
+- 🌱 I’m currently learning **SQL,POWER BI**
 
-- 👯 I’m looking to collaborate on **e-commerce**
+- 👯 I’m looking to collaborate on **DATA TRANFORMATION**
 
-- 🤝 I’m looking for help with **the book ordering app**
+- 🤝 I’m looking for help with **CODE TRANSALTOR**
 
 - 📫 How to reach me **immerlyn059@gmail.com**
 
